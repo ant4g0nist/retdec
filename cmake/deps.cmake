@@ -4,7 +4,7 @@ set(CAPSTONE_URL
     CACHE STRING "URL of Capstone archive to use."
 )
 set(CAPSTONE_ARCHIVE_SHA256
-    "319fd46b141f8177a75f72deb1f074bca657076d96d26094dee05938866dac07"
+    "3d4886a12bc7a92a51fdb554cd112a93571fb00aca58dec237d18928b4afce9b"
     CACHE STRING ""
 )
 
