@@ -27,6 +27,8 @@ endif()
 
 set(LLVM_INSTALL_DIR ${CMAKE_BINARY_DIR}/deps/install/llvm)
 
+set(LLVM_DIR ~/llvm-16.0)
+
 if(LLVM_LOCAL_DIR)
 	message(STATUS "LLVM: using local LLVM directory.")
 	set(LLVM_SOURCE_DIR "${LLVM_LOCAL_DIR}")
